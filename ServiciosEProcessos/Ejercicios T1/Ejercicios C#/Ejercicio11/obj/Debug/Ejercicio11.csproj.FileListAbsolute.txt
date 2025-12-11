@@ -1,0 +1,7 @@
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio11\bin\Debug\Ejercicio11.exe
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio11\bin\Debug\Ejercicio11.pdb
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio11\obj\Debug\Ejercicio11.csproj.AssemblyReference.cache
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio11\obj\Debug\Ejercicio11.csproj.CoreCompileInputs.cache
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio11\obj\Debug\Ejercicio11.exe
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio11\obj\Debug\Ejercicio11.pdb

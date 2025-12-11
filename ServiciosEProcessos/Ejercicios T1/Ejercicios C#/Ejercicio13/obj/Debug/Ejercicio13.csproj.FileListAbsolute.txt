@@ -1,0 +1,16 @@
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio13\bin\Debug\Ejercicio13.exe
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio13\bin\Debug\Ejercicio13.pdb
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio13\obj\Debug\Ejercicio13.csproj.AssemblyReference.cache
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio13\obj\Debug\MainWindow.g.cs
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio13\obj\Debug\App.g.cs
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio13\obj\Debug\Ejercicio13_MarkupCompile.cache
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio13\obj\Debug\Ejercicio13_MarkupCompile.lref
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio13\obj\Debug\MainWindow.baml
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio13\obj\Debug\Ejercicio13.g.resources
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio13\obj\Debug\Ejercicio13.Properties.Resources.resources
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio13\obj\Debug\Ejercicio13.csproj.GenerateResource.cache
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio13\obj\Debug\Ejercicio13.csproj.CoreCompileInputs.cache
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio13\obj\Debug\Ejercicio13.exe
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio13\obj\Debug\Ejercicio13.pdb
+C:\Users\Mechrevo\Documents\Studies\ServiciosEProcessos\Ejercicios T1\Ejercicios C#\Ejercicio13\obj\Debug\Ejercicio13.exe.config
